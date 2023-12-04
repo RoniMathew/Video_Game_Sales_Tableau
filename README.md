@@ -1,1 +1,2 @@
-# Video_Game_Sales_Tableau
+# Video Game Sales Analysis Tableau
+This study delves into the world of video game sales by utilizing a dataset comprising games that have sold more than 100,000 copies, sourced from vgchartz.com. The research's primary objective is to create a user-friendly Tableau dashboard for visualizing and analyzing key trends in video game sales. This interactive dashboard aims to provide insights into the gaming industry, allowing users to explore sales patterns and performance metrics across different titles.
